@@ -29,6 +29,7 @@
     </style>
 </head>
 <body>
+    <img src="img/1.png" alt="">
     <h1>Consultas</h1>
     <p>1 Cantidad de Paradas por Ruta</p>
     <div class="box_consulta">
